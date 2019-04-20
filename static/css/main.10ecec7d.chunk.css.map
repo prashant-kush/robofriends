@@ -1,0 +1,1 @@
+{"version":3,"sources":["/home/prashant/Documents/robofriends/src/index.css"],"names":[],"mappings":"AAAA,KAEC,yDAAsD,AAAtD,iDAAsD,CACtD","file":"main.10ecec7d.chunk.css","sourcesContent":["body\n{\n\tbackground: linear-gradient(to right,#0a00ff,#00f3ff);\n}\n"]}
